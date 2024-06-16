@@ -1,0 +1,34 @@
+QUESTION 1
+
+
+QUESTION 2
+
+ The two variables used were ptLL and MET. Signal selection optimisation intends to discriminate your signal from the different backgrounds.
+As such, we intend to apply cuts in variables to optimise the signal yield but we do not want to loose any signal. It is a compromise between these two.
+As plotted in the previous exercise, we observe for these two variables clear signal peaks, which, as a consequence of what was stated earlier, leads to this choice.
+
+
+QUESTION 3
+
+For the ptLL variable, the cut is at 80.50 GeV.
+
+For the MET variable, the cut is at 65.50 GeV.
+
+
+QUESTION 4
+
+
+++ Statistics after my optimised selection
+Signal histogram entries 58772 expected events 162.8
+Background histogram entries 51369 expected events 710.4
+Total S/sqrt(S+B) improved from 5.17 to 5.51
+
+
+QUESTION 5
+
+The value obtained for mu-hat is 3.59.
+
+The value obtained for q0 is 377.18.
+
+Based on the mu-hat and q0 values, since the mu-hat is > 1 and q0 >> 0, we can argue that the background + signal is the most likely.
+Recall that mu-hat is the Maximum-likelihood estimate for mu and it measures the signal strength. In case it was 0, we had no signal; however, that is not the case (mu-hat is 3.60!).

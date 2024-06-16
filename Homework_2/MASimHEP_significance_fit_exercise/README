@@ -1,0 +1,2 @@
+# To set up the environment for the extercise in the remote machine do
+module load gcc63/madgraph/3.5.1
